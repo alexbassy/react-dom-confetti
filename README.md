@@ -34,5 +34,6 @@ Optional. Configuration object to control the characteristics of the confetti:
 - `startVelocity` - Initial velocity of the particles, defaults to 45.
 - `elementCount` - Number of particle elements, default to 50.
 - `decay` - Decrease in velocity per frame, defaults to 0.9
+- `colors` - An array of colours to use for the confetti pieces.
 
 License MIT, copyright [Daniel Lundin](https://www.twitter.com/daniel-lundin) 2017
